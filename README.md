@@ -1,2 +1,2 @@
 # Project-One
-sample for html - css
+Sample for HTML & css
