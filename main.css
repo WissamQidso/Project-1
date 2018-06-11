@@ -13,11 +13,6 @@ body {
 }
 
 @font-face {
-    font-family: 'Calibri';
-    src: url(../Fonts-Package/Calibri.ttf);
-}
-
-@font-face {
     font-family: 'Myriad Pro Regular';
     src: url(../Fonts-Package/Myriad Pro Regular.ttf)
 }
@@ -59,7 +54,7 @@ body {
 }
 
 .bottons a { 
-    font: 15px 'Calibri';
+    font: 15px 'Myriad Pro Regular';
     font-weight: bolder;
     text-decoration: none;
     text-transform: uppercase;
@@ -86,7 +81,7 @@ body {
 }
 
 #services h2 { 
-    font: 26px 'Calibri';
+    font: 26px 'Myriad Pro Regular';
     font-weight: bolder;
     text-decoration: underline;
     text-decoration-color: cornflowerblue;
@@ -97,7 +92,7 @@ body {
 }
 
 #services p { 
-    font: 16px 'Calibri'; 
+    font: 16px 'Myriad Pro Regular'; 
     font-weight:400;
     text-align: left;
     text-transform: lowercase;
@@ -115,7 +110,7 @@ section {
 }
 
 .embassy { 
-    font: 26px 'Calibri';
+    font: 26px 'Myriad Pro Regular';
     font-weight: bolder;
     text-decoration: underline;
     text-transform: capitalize;
@@ -126,7 +121,7 @@ section {
 }
 
 section p { 
-    font: 16px 'Calibri';
+    font: 16px 'Myriad Pro Regular';
     font-weight: 400;
     text-align: left;
     text-decoration: none;
@@ -144,7 +139,7 @@ section p {
 }
 
 .about { 
-    font: 26px 'Calibri';
+    font: 26px 'Myriad Pro Regular';
     font-weight: bolder;
     text-decoration: underline;
     text-transform: capitalize;
@@ -155,7 +150,7 @@ section p {
 }
 
 #about-us p { 
-    font: 16px 'Calibri';
+    font: 16px 'Myriad Pro Regular';
     font-weight: 400;
     text-align: left;
     text-decoration: none;
@@ -182,7 +177,7 @@ strong {
 }
 
 .contact { 
-    font: 26px 'Calibri';
+    font: 26px 'Myriad Pro Regular';
     font-weight: bolder;
     text-decoration: underline;
     text-transform: capitalize;
@@ -198,7 +193,7 @@ em {
 }
 
 #contact-us p { 
-    font: 16px 'Calibri';
+    font: 16px 'Myriad Pro Regular';
     font-weight: 400;
     text-align: left;
     text-decoration: none;
@@ -208,4 +203,3 @@ em {
     width: 65%;
     color: rgb(207, 180, 166);
 }
-
