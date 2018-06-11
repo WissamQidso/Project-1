@@ -29,8 +29,8 @@ body {
     background-color: aliceblue;
 }
 
-#whole-page h1 { 
-    font: 75px bold;
+#whole-page h1 {
+    font: 5vw bold;
     font-family: 'Brush Script Std Medium';
     text-decoration: none;
     text-align: center;
@@ -38,7 +38,7 @@ body {
     background: rgb(135, 79, 47);
     margin: 0;
     height: 80px;
-    padding: 5px 2px 15px 2px;
+    padding: 15px 2px 0px;
 }
 
 .bottons ul { 
@@ -48,19 +48,21 @@ body {
     height: 35px;
 }
 
-.bottons li { 
-    display: inline-block;
-    margin-right: 25px;
+.bottons li {
+    float: left;
+    display: block;
+    width: auto;
+    margin: 0 10px;
 }
 
-.bottons a { 
+.bottons a {
     font: 15px 'Myriad Pro Regular';
-    font-weight: bolder;
+    font-weight: bold;
     text-decoration: none;
     text-transform: uppercase;
     color: rgb(91, 52, 31);
     border: 2px solid rgb(135, 79, 47);
-    padding: 7px;
+    padding: 7px 7px 4px;
     border-radius: 4px;
 }
 
@@ -80,10 +82,10 @@ body {
     height: 90px;
 }
 
-#services h2 { 
-    font: 26px 'Myriad Pro Regular';
+#services h2 {
+    font: 22px 'Myriad Pro Regular';
     font-weight: bolder;
-    text-decoration: underline;
+    text-decoration: underline; 
     text-decoration-color: cornflowerblue;
     text-transform: capitalize;
     color: rgb(91, 52, 31);
@@ -110,7 +112,7 @@ section {
 }
 
 .embassy { 
-    font: 26px 'Myriad Pro Regular';
+    font: 22px 'Myriad Pro Regular';
     font-weight: bolder;
     text-decoration: underline;
     text-transform: capitalize;
@@ -139,7 +141,7 @@ section p {
 }
 
 .about { 
-    font: 26px 'Myriad Pro Regular';
+    font: 22px 'Myriad Pro Regular';
     font-weight: bolder;
     text-decoration: underline;
     text-transform: capitalize;
@@ -177,7 +179,7 @@ strong {
 }
 
 .contact { 
-    font: 26px 'Myriad Pro Regular';
+    font: 22px 'Myriad Pro Regular';
     font-weight: bolder;
     text-decoration: underline;
     text-transform: capitalize;
