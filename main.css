@@ -12,6 +12,21 @@ body {
       background-color: rgb(223, 199, 185);
 }
 
+@font-face {
+    font-family: 'Calibri';
+    src: url(../Fonts-Package/Calibri.ttf);
+}
+
+@font-face {
+    font-family: 'Myriad Pro Regular';
+    src: url(../Fonts-Package/Myriad Pro Regular.ttf)
+}
+
+@font-face {
+    font-family: 'Brush Script Std Medium';
+    src: url(../Fonts-Package/Brush Script Std Medium.ttf)
+}
+
 #whole-page {
     margin: 0 auto;
     padding: 0 ;
@@ -21,7 +36,7 @@ body {
 
 #whole-page h1 { 
     font: 75px bold;
-    font-family: 'Brush Script MT';
+    font-family: 'Brush Script Std Medium';
     text-decoration: none;
     text-align: center;
     color: rgb(207, 180, 166);
@@ -193,10 +208,4 @@ em {
     width: 65%;
     color: rgb(207, 180, 166);
 }
-
-
-
-
-
-
 
