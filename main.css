@@ -14,12 +14,12 @@ body {
 
 @font-face {
     font-family: 'Myriad-Pro-Regular';
-    src: url(../Fonts-Package/Myriad-Pro-Regular.ttf)
+    src: url(Fonts-Package/Myriad-Pro-Regular.ttf)
 }
 
 @font-face {
     font-family: 'Brush-Script-Std-Medium';
-    src: url(../Fonts-Package/Brush-Script-Std-Medium.ttf)
+    src: url(Fonts-Package/Brush-Script-Std-Medium.ttf)
 }
 
 #whole-page {
