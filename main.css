@@ -13,13 +13,13 @@ body {
 }
 
 @font-face {
-    font-family: 'Myriad-Pro-Regular';
-    src: url(Fonts-Package/Myriad-Pro-Regular.ttf)
+    font-family: 'myriad';
+    src: url(Fonts-Package/myriad.ttf)
 }
 
 @font-face {
-    font-family: 'Brush-Script-Std-Medium';
-    src: url(Fonts-Package/Brush-Script-Std-Medium.ttf)
+    font-family: 'brush';
+    src: url(Fonts-Package/brush.ttf)
 }
 
 #whole-page {
@@ -31,7 +31,7 @@ body {
 
 #whole-page h1 {
     font: 5vw bold;
-    font-family: 'Brush-Script-Std-Medium';
+    font-family: 'brush';
     text-decoration: none;
     text-align: center;
     color: rgb(207, 180, 166);
@@ -56,7 +56,7 @@ body {
 }
 
 .bottons a {
-    font: 15px 'Myriad-Pro-Regular';
+    font: 15px 'myriad';
     font-weight: bold;
     text-decoration: none;
     text-transform: uppercase;
@@ -83,7 +83,7 @@ body {
 }
 
 #services h2 {
-    font: 22px 'Myriad-Pro-Regular';
+    font: 22px 'myriad';
     font-weight: bolder;
     text-decoration: underline; 
     text-decoration-color: cornflowerblue;
@@ -94,7 +94,7 @@ body {
 }
 
 #services p { 
-    font: 16px 'Myriad-Pro-Regular'; 
+    font: 16px 'myriad'; 
     font-weight:400;
     text-align: left;
     text-transform: lowercase;
@@ -112,7 +112,7 @@ section {
 }
 
 .embassy { 
-    font: 22px 'Myriad-Pro-Regular';
+    font: 22px 'myriad';
     font-weight: bolder;
     text-decoration: underline;
     text-transform: capitalize;
@@ -123,7 +123,7 @@ section {
 }
 
 section p { 
-    font: 16px 'Myriad-Pro-Regular';
+    font: 16px 'myriad';
     font-weight: 400;
     text-align: left;
     text-decoration: none;
@@ -141,7 +141,7 @@ section p {
 }
 
 .about { 
-    font: 22px 'Myriad-Pro-Regular';
+    font: 22px 'myriad';
     font-weight: bolder;
     text-decoration: underline;
     text-transform: capitalize;
@@ -152,7 +152,7 @@ section p {
 }
 
 #about-us p { 
-    font: 16px 'Myriad-Pro-Regular';
+    font: 16px 'myriad';
     font-weight: 400;
     text-align: left;
     text-decoration: none;
@@ -179,7 +179,7 @@ strong {
 }
 
 .contact { 
-    font: 22px 'Myriad-Pro-Regular';
+    font: 22px 'myriad';
     font-weight: bolder;
     text-decoration: underline;
     text-transform: capitalize;
@@ -195,7 +195,7 @@ em {
 }
 
 #contact-us p { 
-    font: 16px 'Myriad-Pro-Regular';
+    font: 16px 'myriad';
     font-weight: 400;
     text-align: left;
     text-decoration: none;
