@@ -15,12 +15,14 @@ body {
 @font-face {
     font-family: 'myriad';
     src: url('../Fonts-Package/myriad.woff') format('woff'),
+         url('../Fonts-Package/myriad.woff2') format('woff2'),
          url('../Fonts-Package/myriad.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'brush';
     src: url('../Fonts-Package/brush.woff') format('woff'),
+         url('../Fonts-Package/brush.woff2') format('woff2'),
          url('../Fonts-Package/brush.ttf') format('truetype');
 }
 
@@ -33,7 +35,7 @@ body {
 
 #whole-page h1 {
     font: 5vw bold;
-    font-family: 'brush';
+    font-family: 'brush' !important;
     text-decoration: none;
     text-align: center;
     color: rgb(207, 180, 166);
