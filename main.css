@@ -14,12 +14,14 @@ body {
 
 @font-face {
     font-family: 'myriad';
-    src: url('../Fonts-Package/myriad.ttf');
+    src: url('../Fonts-Package/myriad.woff') format('woff'),
+         url('../Fonts-Package/myriad.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'brush';
-    src: url('../Fonts-Package/brush.ttf');
+    src: url('../Fonts-Package/brush.woff') format('woff'),
+         url('../Fonts-Package/brush.ttf') format('truetype');
 }
 
 #whole-page {
